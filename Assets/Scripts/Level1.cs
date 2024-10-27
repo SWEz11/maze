@@ -3,7 +3,6 @@ using System.Collections.Generic;
 using Unity.VisualScripting;
 using UnityEngine;
 using UnityEngine.SceneManagement;
-using static UnityEditor.Experimental.GraphView.GraphView;
 
 public class Level1 : MonoBehaviour
 {
@@ -22,7 +21,7 @@ public class Level1 : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        
+
     }
 
 }
